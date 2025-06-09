@@ -28,7 +28,7 @@
 	<properties>
 		<bintray.package>config</bintray.package>
 		<spring-cloud-commons.version>2.2.2.BUILD-SNAPSHOT</spring-cloud-commons.version>
-		<aws-java-sdk.version>1.11.52</aws-java-sdk.version>
+		<aws-java-sdk.version>1.12.785</aws-java-sdk.version>
 		<google-api-services-iam.version>v1-rev20191010-1.30.3</google-api-services-iam.version>
 		<maven-checkstyle-plugin.failsOnError>true</maven-checkstyle-plugin.failsOnError>
 		<maven-checkstyle-plugin.failsOnViolation>true
@@ -85,7 +85,7 @@
 			<dependency>
 				<groupId>com.google.auth</groupId>
 				<artifactId>google-auth-library-oauth2-http</artifactId>
-				<version>0.15.0</version>
+				<version>0.23.0</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
